@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d768b296.css",
+    "main.js": "./static/js/main.90ed73e7.js",
+    "static/media/company.jpeg": "./static/media/company.3811edfa81350ba2eb8b.jpeg",
+    "static/media/handyman.JPG": "./static/media/handyman.f1e85049efff09072e14.JPG",
+    "static/media/cleaning.JPG": "./static/media/cleaning.54479e07ff38b2f844aa.JPG",
+    "static/media/delivery.JPG": "./static/media/delivery.0e155e917131a8a04f4f.JPG",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d768b296.css",
+    "static/js/main.90ed73e7.js"
+  ]
+}
